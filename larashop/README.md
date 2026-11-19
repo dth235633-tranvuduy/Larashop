@@ -1,5 +1,15 @@
 # Larashop
 
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-8.2%2B-777BB4?logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-12-FF2D20?logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Bootstrap-5-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Sass-Scss-CC6699?logo=sass&logoColor=white" alt="Sass">
+  <img src="https://img.shields.io/badge/Vite-7-646CFF?logo=vite&logoColor=white" alt="Vite">
+</p>
+
 Website thương mại điện tử được xây dựng bằng Laravel, phục vụ việc giới thiệu và bán các sản phẩm công nghệ. Đồ án bao gồm giao diện dành cho khách hàng, khu vực tài khoản người dùng và trang quản trị hệ thống.
 
 ## Chức năng chính
@@ -150,15 +160,15 @@ npm run build
 
 ## Các đường dẫn chính
 
-| Khu vực | Đường dẫn |
-| --- | --- |
-| Trang chủ | `/` |
+| Khu vực            | Đường dẫn   |
+| ------------------ | ----------- |
+| Trang chủ          | `/`         |
 | Danh sách sản phẩm | `/san-pham` |
-| Giỏ hàng | `/gio-hang` |
-| Bài viết | `/bai-viet` |
-| Đăng nhập | `/login` |
-| Khu vực người dùng | `/user` |
-| Khu vực quản trị | `/admin` |
+| Giỏ hàng           | `/gio-hang` |
+| Bài viết           | `/bai-viet` |
+| Đăng nhập          | `/login`    |
+| Khu vực người dùng | `/user`     |
+| Khu vực quản trị   | `/admin`    |
 
 Khu vực `/admin` yêu cầu người dùng đăng nhập trước khi truy cập.
 
